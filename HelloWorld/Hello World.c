@@ -4,5 +4,5 @@
  * It contains a main function that prints "hello world" to the console.
  */
     void main(){
-        printf("hello world");
+        printf("hello world\n");
     }
