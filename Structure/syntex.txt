@@ -1,4 +1,4 @@
-// structure is use to combine different data type
+// structure is use to combine different(hetrginious) data type
 
 
                                         # Before Using main function
