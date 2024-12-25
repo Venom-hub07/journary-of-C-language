@@ -1,0 +1,26 @@
+// structure is use to combine different data type
+
+
+                                        # Before Using main function
+    #include<stdio.h>
+
+    struct <structure Name> 
+    {
+//     < assign different type of data >
+    
+        data type 1
+        data type 2
+        data type 3
+        data type 4....
+    }(variable of the structure);           // variable(object) is use for 
+
+        void main(){
+//        < structure variable assign >    
+                 
+                 <ather assign / other statement here>
+
+
+        }
+
+        
+        
