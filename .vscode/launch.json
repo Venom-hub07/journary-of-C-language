@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "lldb",
+            "request": "attach",
+            "name": "Attach",
+            "program": "${workspaceFolder}/<Venom-hub07/Project-of-C-language/fectorial number/fectorial number.c>"
+        },
+        
+        {
+            "type": "lldb",
             "request": "launch",
             "name": "Debug",
             "program": "${workspaceFolder}/<executable file>",

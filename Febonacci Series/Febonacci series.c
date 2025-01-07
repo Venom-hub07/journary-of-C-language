@@ -17,10 +17,9 @@
        int a=0,b=1, c ,n, i;
         printf("%2d",a);
         printf("%3d",b);
-          
-                scanf("%3d",&n);
+          scanf("%3d",&n);
 
-         for(i=1; i<=n; i++){
+         for(i=1; i<=n-2; i++){
             c=a+b;
             a=b;            //this is use for storing the value of b in a, after this b variable will empty after that a=1;  b= empty;
             b=c;            //this is use for shifting the value of c in b, after this c variable will empty  and ready for restoring the next value
